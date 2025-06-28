@@ -1,0 +1,16 @@
+.WeatherCard {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.card {
+
+    height: 380px;
+    width: 400px
+}
+
+h4 {
+    color: dodgerblue;
+    margin-top: 0;
+}
